@@ -141,44 +141,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
 
-## Contact
 
-Cheng Kei Ong - chengkei.ong@outlook.com
-<br/>
-<br/>
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/Cheng-K/FoodNet](https://github.com/Cheng-K/FoodNet)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [Nutrition5k](https://github.com/google-research-datasets/Nutrition5k)
-- [Recipes5k](http://www.ub.edu/cvub/recipes5k/)
-- [Food101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
-- [FoodData Central](https://fdc.nal.usda.gov/index.html)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/chengkei-ong
-[product-screenshot]: images/screenshot.png
-[keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
-[keras-url]: https://keras.io/
-[tensorflow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
-[tensorflow-url]: https://www.tensorflow.org/
-[pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-[pandas-url]: https://pandas.pydata.org/
-[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[python-url]: https://www.python.org/
 [anaconda]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white
 [anaconda-url]: https://www.anaconda.com/
 [kaggle]: https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white
